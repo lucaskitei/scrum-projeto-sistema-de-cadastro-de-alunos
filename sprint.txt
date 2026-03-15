@@ -1,0 +1,7 @@
+# Sprint 1
+
+Objetivo: criar funcionalidades básicas do sistema.
+
+Tarefas:
+1 -	Cadastrar aluno 	
+2 -    Lembrete de tarefa

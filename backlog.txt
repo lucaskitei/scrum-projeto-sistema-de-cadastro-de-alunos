@@ -1,0 +1,7 @@
+# Product Backlog
+
+1. Cadastrar cliente
+2. Listar clientes
+3. Buscar cliente
+4. Editar cliente
+5. Excluir cliente
